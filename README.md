@@ -15,7 +15,6 @@
 ### 🌱 About Me
 - 💼 Currently working as a **Software Engineer at Manorama Online**
 - 📱 **Android Developer** passionate about building intuitive and scalable mobile applications
-- 🚀 Actively learning **Full Stack Web Development**
 - 💻 Interested in **Android, Web Technologies & Problem Solving**
 - 📫 Reach me at **gopikampanicker@gmail.com**
 
