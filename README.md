@@ -1,4 +1,7 @@
-![MasterHead](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="MasterHead"/>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Gopika M Panicker</h1>
 <h3 align="center">Software Engineer & Android Developer from India 🇮🇳</h3>
